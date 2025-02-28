@@ -1,5 +1,8 @@
 _repo: Rambles-in-Waltham-Forest-b-a-stranger-s-contribution-to-the-triennial-sale-for-the-benefit-o__75349
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75349-h/images/cover.jpg
 creator:
   author:
     agent_name: Blessington, Marguerite, Countess of
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4797
     wikipedia: https://en.wikipedia.org/wiki/Marguerite%2C_Countess_of_Blessington
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75349#Rambles-in-Waltham-Forest-b-a-stranger-s-contribution-to-the-triennial-sale-for-the-benefit-o_
 gutenberg_issued: '2025-02-11'
 gutenberg_type: Text
 identifiers:
